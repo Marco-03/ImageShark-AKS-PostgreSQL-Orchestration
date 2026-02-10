@@ -62,11 +62,11 @@ The application was successfully accessible via the public internet.
 ### Landing Page & UI
 Users are greeted with a responsive landing page where they can create new rooms or join existing ones.
 <br>
-<img src="Landing%20Page.jpg" width="800" alt="Landing Page">
+<img src="Landing%20Page.png" width="800" alt="Landing Page">
 
 *User Dashboard view:*
 <br>
-<img src="Room%20&%20QR%20Code%20Feature%20PC.jpg" width="800" alt="Room Dashboard">
+<img src="Room%20&%20QR%20Code%20Feature%20PC.png" width="800" alt="Room Dashboard">
 
 ### Core Feature: Room Sharing
 The app dynamically generates **QR codes** for easy mobile joining. Users can instantly connect by scanning the code.
